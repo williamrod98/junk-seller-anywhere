@@ -1,0 +1,6 @@
+# Build outputs and local trees (see README.md)
+/vendor/*
+!/vendor/README.md
+build/
+out/
+*.pex

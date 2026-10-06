@@ -1,0 +1,25 @@
+Junk Seller Anywhere - license notice
+
+Copyright (c) 2026 William_Rod
+
+The SKSE plugin AGH_JunkSeller.dll distributed with Junk Seller Anywhere
+v0.9.0 is statically linked with CommonLibSSE-NG 9.1.0 (commit
+a898f469851c464d05137bb74b069dd234897643,
+https://github.com/alandtse/CommonLibSSE-NG). CommonLibSSE-NG 9.1.0 is
+licensed under the GNU General Public License v3.0 or later, with the Modding
+Exception and the GPL-3.0 Linking Exception (with Corresponding Source); the
+full text of both exceptions is in THIRD_PARTY_NOTICES.md. A plugin that
+statically links it forms a combined work with it, so the distributed DLL is
+licensed under the GNU General Public License v3.0 or later
+(GPL-3.0-or-later). The full GPL text is in COPYING.
+
+This repository is the Corresponding Source of that DLL: the plugin source
+code, the build scripts and the exact versions of every library it is built
+with. The CommonLibSSE-NG source tree and the library sources the DLL was built
+from are provided as assets of the v0.9.0 release of this repository.
+
+The files written for this mod are also licensed under the MIT License
+(LICENSE). The MIT License is compatible with the GPL; it does not change the
+license of the combined DLL.
+
+Third-party components and their licenses: THIRD_PARTY_NOTICES.md.

@@ -1,0 +1,2 @@
+# Keep every file byte-identical to the published sha256 values (no line-ending conversion).
+* -text

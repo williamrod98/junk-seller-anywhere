@@ -1,0 +1,161 @@
+{
+  "expectedCommit": "a898f469851c464d05137bb74b069dd234897643",
+  "purpose": "Pinned declarations, not proof of runtime ABI or complete commit identity (w-probe-r71, #823 v0.9.0: the product on CommonLibSSE-NG v9.1.0; commonlib-pin.json stays the 800d pin of the JS-PP probe)",
+  "files": [
+    {
+      "path": "include/REL/Relocation.h",
+      "sha256": "db3149bd9f8a7c3364de75f0c9564fc5926157e4f9e56f3204c21fe273eb4597"
+    },
+    {
+      "path": "include/RE/Offsets_VTABLE.h",
+      "sha256": "115a4e7ddeddc40978126495f06b3c28dceed3f49d4e86882cd86eceeaaf9ed6"
+    },
+    {
+      "path": "include/RE/A/Actor.h",
+      "sha256": "a78c4800729712e9507955bbb46ce9fde1f898498824e7ebf8c49db71cc9d59c"
+    },
+    {
+      "path": "include/RE/B/BGSDefaultObjectManager.h",
+      "sha256": "2de4145404fff46b7ad8c338fec293595cf64dca889f40e24d4a05d9e2420c22"
+    },
+    {
+      "path": "include/RE/B/BarterMenu.h",
+      "sha256": "ed351a06b7468a8e06b0c13656d4b8601e7510f254bb742c07d42dc4e727bf54"
+    },
+    {
+      "path": "include/RE/E/ExtraDataList.h",
+      "sha256": "ef88df525434fc8b41d57f3fe57bf96d5c7f43c4f63ec2295c6115be6e1cb372"
+    },
+    {
+      "path": "include/RE/F/FxDelegate.h",
+      "sha256": "795251f725877ecc3ef9fe910d071e6eb836cde5929a3fc7574a6562c6452332"
+    },
+    {
+      "path": "include/RE/F/FxDelegateArgs.h",
+      "sha256": "e42d871f000cede7f200e3e3b9afa31a432adb31aba867a43ca94f0c8b9f0344"
+    },
+    {
+      "path": "include/RE/F/FxDelegateHandler.h",
+      "sha256": "9c6de9d5e08d49031fb6c18e227336bf9af30d6a65abe12b212239185fb5b278"
+    },
+    {
+      "path": "include/RE/G/GFxValue.h",
+      "sha256": "6bc944dd060eb64f1569107c3221c27477b713e52ca72eec8398304711dfc6db"
+    },
+    {
+      "path": "include/RE/G/GHash.h",
+      "sha256": "ca3338fb5bbbcdd83fc7ed57a31af928b13ffdca77225a3dfda1aa963b167e6a"
+    },
+    {
+      "path": "include/RE/G/GHashNode.h",
+      "sha256": "5942ec0c1c76405a4f70519165f630ded3b6ff5ae9ea810c25dabceb0482b413"
+    },
+    {
+      "path": "include/RE/I/IMenu.h",
+      "sha256": "9f16acba08618d9d56567c7b9c21d2cc7dcb0a121937a7229dddcd70d2799a59"
+    },
+    {
+      "path": "include/RE/I/InventoryChanges.h",
+      "sha256": "c3feb57f612f0f7cf40230374503214ecf4f69a2a9d6fbd5c6c2d518dfe03ffe"
+    },
+    {
+      "path": "include/RE/I/InventoryEntryData.h",
+      "sha256": "06aa7c495ea3a339dc2f4cf81861e5d12e47eeb5b86f5e9ce035354729c100c1"
+    },
+    {
+      "path": "include/RE/I/ItemList.h",
+      "sha256": "e789e6ad96aa97e9d3f4f20c0aa4a6da16f24bdae12bfa1b1282a2295fc3d2c4"
+    },
+    {
+      "path": "include/RE/M/MenuOpenCloseEvent.h",
+      "sha256": "4f8d3bafbff7922fc5a4b32b3f35c464beddd6aac3ceb9eb49a41ebcc8958704"
+    },
+    {
+      "path": "include/RE/P/PlayerCharacter.h",
+      "sha256": "064795ea2d84b04754cf9df36d4a0c514c826610a281c3c921bb3dd727ca7b95"
+    },
+    {
+      "path": "include/RE/S/ScriptEventSourceHolder.h",
+      "sha256": "dae46d0033894c3db78df5fe98d05f5201874e6fc99d26d5536f76ef83816ad7"
+    },
+    {
+      "path": "include/RE/S/StandardItemData.h",
+      "sha256": "518cfa5d82d84b65369081d0468948e6dea09ea09e3093cd4df56087054a357d"
+    },
+    {
+      "path": "include/RE/T/TESBoundObject.h",
+      "sha256": "091820e49add9e493ee22d111cae76dff7cab3dad3c1d12c9ba7c3e79ad63f28"
+    },
+    {
+      "path": "include/RE/T/TESContainerChangedEvent.h",
+      "sha256": "e8873a58c2bc764c1021a3e70a8dc82bad5443fbfb51df2449e2a5105eae12d5"
+    },
+    {
+      "path": "include/RE/T/TESDataHandler.h",
+      "sha256": "e84166c1255e7af820a7a123a8c99d1602c341557222b58725c37994347aab65"
+    },
+    {
+      "path": "include/RE/T/TESFaction.h",
+      "sha256": "9f4bb8b99f59cf52f298b7661273f4528feb4c8b6bfe75cada5d24193543781e"
+    },
+    {
+      "path": "include/RE/T/TESObjectREFR.h",
+      "sha256": "a7aac8c84973399941b8c208b9dc711e9def8e457b34f2a93f7154cb51dfba76"
+    },
+    {
+      "path": "include/RE/T/TESTrackedStatsEvent.h",
+      "sha256": "ad25a932286ece9a3e7647969cf0a3852ec0bd2fc3675807cda9946c11615097"
+    },
+    {
+      "path": "include/RE/U/UI.h",
+      "sha256": "c58fc6842df969ccf7ed88848d481395bf21bebc150e03dfb9787b8da5d6254a"
+    },
+    {
+      "path": "include/SKSE/Events.h",
+      "sha256": "3d4de07dbb8b1fbce3b16467ae1379a4ae05017d2aaca03b32872cb7a67412cf"
+    },
+    {
+      "path": "include/SKSE/Interfaces.h",
+      "sha256": "ef1cf2e3e2edbd1c878e5152baba2f8993a480aea4ecbc92d1531cce65e1c502"
+    },
+    {
+      "path": "include/SKSE/Logger.h",
+      "sha256": "8fb03ff9d3b6d250c1a86563da197b5c0dc35741d878209c669b879345f68626"
+    },
+    {
+      "path": "include/RE/M/MessageBoxMenu.h",
+      "sha256": "694aaa6263755a8721fbe237dda71bbdad2ee57c011f72f5f0bd28f78e662c8f"
+    },
+    {
+      "path": "include/RE/I/IMessageBoxCallback.h",
+      "sha256": "567220872cbac5ceebf1dfe9b5b9228a35e6de74cef28aa5a494811569468e3d"
+    },
+    {
+      "path": "include/RE/M/MessageBoxData.h",
+      "sha256": "168013d5e14c38fa4b4e25bc42bad4a6c33445010fc9b2772e2849af9bc4bf76"
+    },
+    {
+      "path": "include/SKSE/API.h",
+      "sha256": "72978786dea6dd912063fd0ee532d0062344b7a5971f9672195fcce3a15f997b"
+    },
+    {
+      "path": "include/REL/IDDB.h",
+      "sha256": "6fa5e4bc416e56c0452f222c38f9b4a7bbba32a8911c72ef68fad058fd71db26"
+    },
+    {
+      "path": "include/REL/ID.h",
+      "sha256": "4d89f0cafadb78184c34196e34f168980f5b596d201594ba8ceedae9575651f2"
+    },
+    {
+      "path": "include/REL/Module.h",
+      "sha256": "06c19260b84960a664e26b5f6bd55b958ed5cc737e49c2ba0083d919f75c5bf9"
+    },
+    {
+      "path": "include/RE/B/BGSEntryPoint.h",
+      "sha256": "433f222d7fd1243cb97416e78292a21e467dd63a0be876ce8a59dbd9729c6e13"
+    }
+  ],
+  "sourceTreeSha256": "28e0f8a8a173152f5f5c1aadb7000773d436072338d51f87fb1abd13e5b899ce",
+  "sourceTreeFileCount": 2762,
+  "sourceTreeRule": "Ordinal relative POSIX paths; exclude any .git/build component; path TAB lowercase SHA256 LF UTF-8"
+}

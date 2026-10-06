@@ -1,0 +1,17 @@
+{
+  "name": "agh-js-probe",
+  "version": "0.0.3",
+  "dependencies": [
+    "directxmath",
+    "directxtk",
+    "fmt",
+    "rapidcsv",
+    "rsm-binary-io",
+    "simpleini",
+    "spdlog",
+    "xbyak",
+    "nlohmann-json",
+    "toml11"
+  ],
+  "builtin-baseline": "ee12231b20c95013c6638d845d04c91559a1d1ff"
+}
